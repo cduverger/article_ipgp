@@ -1,4 +1,4 @@
-# article_ipgp
+# ipgp-article
 
 First readme for the journal article of the IPGP git class.
 
